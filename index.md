@@ -1,1 +1,2 @@
-[penelopus.com](https://penelopus.com) and ![Image](https://penelopus.com/dino.png)
+![Image](https://penelopus.com/dino.png)<br/>
+[penelopus.com](https://penelopus.com)
